@@ -1,0 +1,19 @@
+{
+  "name": "brews-lee-sequelize",
+  "version": "1.0.0",
+  "description": "database management app using sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cam-F/Brews-Lee-Sequelize.git"
+  },
+  "author": "cameron fuller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cam-F/Brews-Lee-Sequelize/issues"
+  },
+  "homepage": "https://github.com/Cam-F/Brews-Lee-Sequelize#readme"
+}
